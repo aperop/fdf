@@ -1,0 +1,34 @@
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+0  0 10 10  0  0 10 10  0  0  0 10 10 10 10 10  0  0  0
+0  0 10 10  0  0 10 10  0  0  0  0  0  0  0 10 10  0  0
+0  0 10 10  0  0 10 10  0  0  0  0  0  0  0 10 10  0  0
+0  0 10 10 10 10 10 10  0  0  0  0 10 10 10 10  0  0  0
+0  0  0 10 10 10 10 10  0  0  0 10 10  0  0  0  0  0  0
+0  0  0  0  0  0 10 10  0  0  0 10 10  0  0  0  0  0  0
+0  0  0  0  0  0 10 10  0  0  0 10 10 10 10 10 10  0  0
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Process:         fdf [38500]
+Path:            /Volumes/VOLUME/*/fdf
+Load Address:    0x101e20000
+Identifier:      fdf
+Version:         ???
+Code Type:       X86-64
+Parent Process:  leaks [38499]
+
+Date/Time:       2022-02-01 20:52:09.950 +0300
+Launch Time:     2022-02-01 20:52:09.804 +0300
+OS Version:      Mac OS X 10.14.6 (18G9323)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 11.3.1 (11C505)
+
+Physical footprint:         352K
+Physical footprint (peak):  352K
+----
+
+leaks Report Version: 4.0
+Process 38500: 163 nodes malloced for 18 KB
+Process 38500: 0 leaks for 0 total leaked bytes.
+
